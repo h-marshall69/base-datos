@@ -1,0 +1,9 @@
+section {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #0a0a0a;    
+}
+
+.element {
+    margin: 10px;
+}
