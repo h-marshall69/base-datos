@@ -4,7 +4,7 @@ function OpenCon() {
     $dbhost = "localhost";
     $dbuser = "root";
     $dbpass = "";
-    $db = "arquivo";
+    $db = "employees";
 
     $conn = new mysqli($dbhost, $dbuser, $dbpass, $db);
 
